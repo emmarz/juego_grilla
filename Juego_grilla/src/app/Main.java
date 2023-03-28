@@ -2,7 +2,7 @@ package app;
 
 import gui.Prueba;
 
-/*comentario de prueba general*/
+/*cambio el comentario de prueba*/
 public class Main {
 	private static Ari ari = new Ari();
 	
